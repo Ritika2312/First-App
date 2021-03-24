@@ -56,7 +56,5 @@
         </plugin>
     </plugins>
 </build>
-  <build>
-    <finalName>our-web-app</finalName>
-  </build>
+  
 </project>
